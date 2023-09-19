@@ -1,5 +1,4 @@
 import React, { useRef } from "react";
-import { Link } from "react-router-dom";
 import menuImg from "./images/menu (1).png";
 import "../App.css";
 function Header() {
